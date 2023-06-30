@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "name": "Shaikh Abuzar",
+      "email": "abuzar123@gmail.com",
+      "password": "1234",
+      "id": 2
+    }
+  ],
+  "data": [
+    {
+      "type": "Income",
+      "category": "Refunds",
+      "amount": "200",
+      "date": "2023-06-28",
+      "id": 1
+    },
+    {
+      "type": "Expense",
+      "category": "Bills",
+      "amount": "2000",
+      "date": "2023-06-28",
+      "id": 2
+    },
+    {
+      "type": "Income",
+      "category": "",
+      "amount": "-1",
+      "date": "2023-06-07",
+      "id": 3
+    }
+  ]
+}
